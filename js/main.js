@@ -18,6 +18,7 @@ function equal() {
     document.getElementById("number_score").value = eval(result);
 }
 
+
 // usunięcie jednej liczby
 
 function undo() {
