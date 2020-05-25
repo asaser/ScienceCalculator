@@ -73,7 +73,5 @@ function squared() {
     document.getElementById("number_score").value = squar;
 }
 
-// math factorial
-
 
 
